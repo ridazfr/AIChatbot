@@ -83,12 +83,6 @@ Chat memory is handled independently for both models.
 
 ---
 
-### Author
-
-GitHub: [@ridazfr](https://github.com/ridazfr)
-
----
-
 ### License
 
 This project is licensed under the MIT License.
